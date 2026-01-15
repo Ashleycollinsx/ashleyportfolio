@@ -11,7 +11,7 @@ body {
         url("../images/icons/sparks.svg") no-repeat left 60px top 20px,
         url("../images/icons/spark.svg") no-repeat right 40px bottom 40px,
 
-        linear-gradient(90deg,rgba(255, 255, 255, 1) 33%, rgba(154, 154, 163, 1) 67%, rgba(127, 127, 138, 1) 76%, rgba(18, 18, 19, 1) 100%;
+        linear-gradient(90deg,rgba(255, 255, 255, 1) 33%, rgba(154, 154, 163, 1) 67%, rgba(127, 127, 138, 1) 76%, rgba(18, 18, 19, 1) 100%);
 
     background-size:
     clamp(70px, 6vw, 120px),
