@@ -6,6 +6,15 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   color: #111;
+
+  background:
+    linear-gradient(
+      to left,
+      #000 0%,
+      #111 28%,
+      #eaeaea 58%,
+      #fff 72%
+    );
 }
 
 .layout {
@@ -19,3 +28,34 @@ body {
 .content {
   max-width: 640px;
 }
+
+.content a {
+  display: inline-block;
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  padding: 14px 20px;
+  border-radius: 14px;
+  font-weight: 700;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+  transition: transform 0.15s ease, background 0.2s ease;
+}
+
+.content a:hover {
+  background: #222;
+  transform: translateY(-1px);
+}
+
+h1 {
+  font-size: clamp(2.4rem, 6vw, 3.4rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0 0 12px;
+}
+
+section {
+  font-size: clamp(1.1rem, 2.5vw, 1.3rem);
+  color: #444;
+  margin-bottom: 28px;
+}
+
