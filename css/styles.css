@@ -8,8 +8,8 @@ body {
     color: #111;
 
     background:
-        url("../images/icons/sparks.svg") no-repeat right 140px top 120px,
-        url("../images/icons/spark.svg") no-repeat no-repeat right 60px bottom 80px,
+        url("../images/icons/sparks.svg") no-repeat left 140px top 120px,
+        url("../images/icons/spark.svg") no-repeat right 60px bottom 80px,
 
         linear-gradient(90deg,rgba(255, 255, 255, 1) 33%, rgba(154, 154, 163, 1) 67%, rgba(127, 127, 138, 1) 76%, rgba(18, 18, 19, 1) 100%, rgba(5, 5, 5, 1) 100%);
 }
