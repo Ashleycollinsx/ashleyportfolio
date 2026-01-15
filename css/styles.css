@@ -16,6 +16,10 @@ body {
       #eaeaea 40%,
       #fff 60%
     );
+
+    background: 
+      url("./images/sparks.svg") no-repeat top left, 
+      url("./images/spark.svg") no-repeat bottom right, 
 }
 
 .layout {
