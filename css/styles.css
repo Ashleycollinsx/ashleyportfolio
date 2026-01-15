@@ -8,8 +8,9 @@ body {
     color: #111;
 
     background:
-        url("./images/icons/sparks.svg") no-repeat left 24px top 24px,
-        url("./images/icons/spark.svg") no-repeat right 24px bottom 24px,
+        url("../images/icons/sparks.svg") no-repeat left 24px top 24px,
+        url("../images/icons/spark.svg") no-repeat right 24px bottom 24px,
+
         linear-gradient(
         to left,
         #000 0%,
