@@ -12,15 +12,15 @@ body {
       to left,
       #000 0%,
       #111 28%,
-      #eaeaea 58%,
-      #fff 72%
+      #eaeaea 45%,
+      #fff 60%
     );
 }
 
 .layout {
   min-height: 100vh;
   display: flex;
-  align-items: center;          /* vertical centering */
+  align-items: center;
   padding-left: clamp(32px, 8vw, 160px);
   padding-right: 24px;
 }
