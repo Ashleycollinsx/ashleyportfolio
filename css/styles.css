@@ -7,3 +7,15 @@ body {
   font-family: Arial, sans-serif;
   color: #111;
 }
+
+.layout {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;          /* vertical centering */
+  padding-left: clamp(32px, 8vw, 160px);
+  padding-right: 24px;
+}
+
+.content {
+  max-width: 640px;
+}
