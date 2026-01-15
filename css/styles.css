@@ -8,8 +8,8 @@ body {
     color: #111;
 
     background:
-        url("./images/icons/sparks.svg") no-repeat top left,
-        url("./images/icons/spark.svg") no-repeat bottom right,
+        url("./images/icons/sparks.svg") no-repeat left 24px top 24px,
+        url("./images/icons/spark.svg") no-repeat right 24px bottom 24px,
         linear-gradient(
         to left,
         #000 0%,
@@ -18,10 +18,6 @@ body {
         #eaeaea 40%,
         #fff 60%
     );
-
-    background-size:
-        clamp(60px, 8vw, 100px),
-        clamp(60px, 8vw, 100px),
 }
 
 .layout {
