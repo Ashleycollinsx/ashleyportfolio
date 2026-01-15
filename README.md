@@ -7,7 +7,7 @@ The site is a custom-built, front-end–focused project designed to showcase my 
 ## Live Site
 
   - https://ashleycollins.co.uk
-  - https://ashleycollinsx.github.io/ashleyportfolio/
+  - https://ashleycollinsx.github.io/ashleyportfolio
 
 ## Tech Stack
 
