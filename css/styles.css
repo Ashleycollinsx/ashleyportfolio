@@ -11,8 +11,8 @@ body {
     linear-gradient(
       to left,
       #000 0%,
-      #111 28%,
-      #eaeaea 45%,
+      #111 20%,
+      #eaeaea 40%,
       #fff 60%
     );
 }
