@@ -22,7 +22,6 @@ body {
     background-size:
         clamp(60px, 8vw, 100px),
         clamp(60px, 8vw, 100px),
-        auto;
 }
 
 .layout {
