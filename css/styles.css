@@ -12,6 +12,11 @@ body {
         url("../images/icons/spark.svg") no-repeat bottom-right,
 
         linear-gradient(90deg,rgba(255, 255, 255, 1) 33%, rgba(154, 154, 163, 1) 67%, rgba(127, 127, 138, 1) 76%, rgba(18, 18, 19, 1) 100%, rgba(5, 5, 5, 1) 100%);
+
+    background-size: 
+        clamp(120px,14vw,220px),
+        clamp(180px,18vw,320px),
+        auto;
 }
 
 .layout {
